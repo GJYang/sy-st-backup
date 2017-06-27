@@ -1,0 +1,10 @@
+{
+	"shell_cmd": "make TMN=FW_DM36XV2 release",
+
+	"variants": [
+		{
+			"name": "clean",
+			"shell_cmd": "make TMN=FW_DM36XV2 clean"
+		}
+	]
+}

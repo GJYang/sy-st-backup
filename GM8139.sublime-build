@@ -1,0 +1,14 @@
+{
+	"shell_cmd": "make TMN=FW_GM8139",
+
+	"variants": [
+		{
+			"name": "clean",
+			"shell_cmd": "make TMN=FW_GM8139 clean"
+		},
+		{
+			"name": "release",
+			"shell_cmd": "make TMN=FW_GM8139 release"
+		}
+	]
+}

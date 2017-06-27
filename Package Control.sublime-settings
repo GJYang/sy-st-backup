@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ANSIescape",
+		"Codecs33",
+		"ConvertToUTF8",
+		"FileOpTabContextMenu",
+		"FolderTouch",
+		"HexViewer",
+		"Package Control",
+		"Show Open Files"
+	]
+}

@@ -1,0 +1,13 @@
+[
+	{ "keys": ["ctrl+shift+o"], "command": "prompt_add_folder" },
+	{ "keys": ["ctrl+f5"], "command": "refresh_folder_list"},
+	{"keys": ["ctrl+shift+h"], "command": "set_file_type",
+		"args": {"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"}
+	},
+	{"keys": ["ctrl+shift+c"], "command": "set_file_type",
+		"args": {"syntax": "Packages/C++/C.tmLanguage"}
+	},
+	{"keys": ["ctrl+shift+m"], "command": "set_file_type",
+		"args": {"syntax": "Packages/Makefile/Makefile.tmLanguage"}
+	},
+]

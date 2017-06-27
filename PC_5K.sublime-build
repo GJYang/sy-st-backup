@@ -1,0 +1,14 @@
+{
+	"shell_cmd": "make TMN=PC_5K",
+
+	"variants": [
+		{
+			"name": "clean",
+			"shell_cmd": "make TMN=PC_5K clean"
+		},
+		{
+			"name": "release",
+			"shell_cmd": "make TMN=PC_5K release"
+		}
+	]
+}

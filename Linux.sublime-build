@@ -1,0 +1,10 @@
+{
+	"shell_cmd": "make",
+
+	"variants": [
+		{
+			"name": "Run",
+			"shell_cmd": "make clean"
+		}
+	]
+}

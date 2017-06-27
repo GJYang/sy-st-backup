@@ -1,0 +1,14 @@
+{
+	"shell_cmd": "make TMN=FW_HI3536",
+
+	"variants": [
+		{
+			"name": "clean",
+			"shell_cmd": "make TMN=FW_HI3536 clean"
+		},
+		{
+			"name": "release",
+			"shell_cmd": "make TMN=FW_HI3536 release"
+		}
+	]
+}
